@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-11-16T14:27:22Z`
-Update Date | `2021-11-16T14:27:22Z`
+Update Date | `2021-12-11T08:08:36Z`
 Edit link | [here](https://github.com/junxnone/leetcode/issues/4)
 
 ---
@@ -21,4 +21,6 @@ This is a Leetcode Algos Wiki.
 
 
 
+---
 
+[Index](_sidebar.md ':include')
